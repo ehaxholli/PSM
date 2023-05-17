@@ -1,0 +1,3 @@
+Running hg.py trains a single timevarying model for a given number of parameter updates (2 million by default) to learn all the scores. Once training is finished it saves the model, and it will first perform validation to measure NLL. Then it will generate the visualisation of the process of data generation and and the likelihood evolution. If no prior model existed it starts training from scratch, otherwise it loads the existing model and continues training.
+
+The file hg_approx.py is almost identical to hg.py but here instead of measuring the divergence precisely, the Hutchinson's trace estimator is used. Beware that they both (hg.py and hg_approx.py) load and train the same model if it exists in the directory from a previious run. 
