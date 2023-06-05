@@ -1,4 +1,4 @@
 # PSM
 <p align="center">
-<img align="middle" src="./ezgif-4-3872b20161.gif" width="1300" height="400" />
+<img align="middle" src="./assets/Diffusion_TPSM_2D_200.gif" width="800" height="300" />
 </p>
