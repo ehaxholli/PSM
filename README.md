@@ -1,2 +1,2 @@
 # PSM
-Diffusion-TPSM-2D.mp4
+./Diffusion-TPSM-2D.mp4
