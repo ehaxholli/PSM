@@ -1,7 +1,7 @@
 # Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching
 
 Code for reproducing the experiments in the paper:
->Etrit Haxholli, Marco Lorenzi. Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching. 2023. [[arXiv:2306.02658]](https://arxiv.org/abs/2306.02658) [[hal-04032669]](https://inria.hal.science/hal-04032669/) 
+>Etrit Haxholli, Marco Lorenzi. Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching. 2023. [[arXiv:2306.02658]](https://arxiv.org/abs/2306.02658)
 
 Experiments where the diffusion time interval is separated into equal subintervals can be found in the folder 'Equal_subintervals'. In this folder one can also find the DPSM experiments.
 
